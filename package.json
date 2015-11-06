@@ -1,0 +1,16 @@
+{
+  "name": "infoscreen-v4",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^2.5.1",
+    "request": "^2.65.0"
+  }
+}
